@@ -1,4 +1,5 @@
-    public class Root
+using System.Collections.Generic;
+public class Root
     {
         public int HeaderSize;
         public int HeaderCrc;

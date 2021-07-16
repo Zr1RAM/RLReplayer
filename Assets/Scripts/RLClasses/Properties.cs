@@ -1,4 +1,5 @@
-    public class Properties
+using System.Collections.Generic;
+public class Properties
     {
         public int TeamSize;
         public int UnfairTeamSize;
