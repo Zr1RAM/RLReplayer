@@ -1,0 +1,9 @@
+[submodule "RLReplayParserLibs/RLReplayAnalysis"]
+	path = RLReplayParserLibs/RLReplayAnalysis
+	url = https://gitlab.com/enzanki_ars/rocket-league-replay-analysis.git
+[submodule "RLReplayParserLibs/jjbottReplayParser"]
+	path = RLReplayParserLibs/jjbottReplayParser
+	url = https://github.com/jjbott/RocketLeagueReplayParser.git
+[submodule "RLReplayParserLibs/RRocket"]
+	path = RLReplayParserLibs/RRocket
+	url = https://github.com/nickbabcock/rrrocket.git
